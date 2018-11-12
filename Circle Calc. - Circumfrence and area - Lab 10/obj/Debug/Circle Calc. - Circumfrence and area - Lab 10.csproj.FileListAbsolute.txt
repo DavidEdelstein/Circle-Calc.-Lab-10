@@ -1,7 +1,0 @@
-C:\Users\yitze\source\repos\Circle Calc. - Circumfrence and area - Lab 10\Circle Calc. - Circumfrence and area - Lab 10\obj\Debug\Circle Calc. - Circumfrence and area - Lab 10.csprojAssemblyReference.cache
-C:\Users\yitze\source\repos\Circle Calc. - Circumfrence and area - Lab 10\Circle Calc. - Circumfrence and area - Lab 10\obj\Debug\Circle Calc. - Circumfrence and area - Lab 10.csproj.CoreCompileInputs.cache
-C:\Users\yitze\source\repos\Circle Calc. - Circumfrence and area - Lab 10\Circle Calc. - Circumfrence and area - Lab 10\bin\Debug\Circle_Calc.__Circumfrence_and_area___Lab_10.exe.config
-C:\Users\yitze\source\repos\Circle Calc. - Circumfrence and area - Lab 10\Circle Calc. - Circumfrence and area - Lab 10\bin\Debug\Circle_Calc.__Circumfrence_and_area___Lab_10.exe
-C:\Users\yitze\source\repos\Circle Calc. - Circumfrence and area - Lab 10\Circle Calc. - Circumfrence and area - Lab 10\bin\Debug\Circle_Calc.__Circumfrence_and_area___Lab_10.pdb
-C:\Users\yitze\source\repos\Circle Calc. - Circumfrence and area - Lab 10\Circle Calc. - Circumfrence and area - Lab 10\obj\Debug\Circle_Calc.__Circumfrence_and_area___Lab_10.exe
-C:\Users\yitze\source\repos\Circle Calc. - Circumfrence and area - Lab 10\Circle Calc. - Circumfrence and area - Lab 10\obj\Debug\Circle_Calc.__Circumfrence_and_area___Lab_10.pdb
